@@ -3,7 +3,7 @@ import mediapipe as mp
 import numpy as np
 import json
 import os
-
+#made by mustafa özdil
 mp_hands = mp.solutions.hands
 
 HAND_LABELS_FILE = "hand_labels.json"
